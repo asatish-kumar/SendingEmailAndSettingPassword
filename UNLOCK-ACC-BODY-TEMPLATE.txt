@@ -1,0 +1,17 @@
+Hi {FNAME}:<br/>
+<br/>
+
+Welcome our srk technologies, your Registration is almost completed click below link to unlock your acount.<br/>
+<br/>
+
+Temporary Pasword:{TEMP-PWD}<br/>
+<br/>
+<a href='http://localhost:9081/user/unlockAcc?userEmail={EMAIL}'>click here to unlock account</a><br/>
+<br/>
+
+Thanks and Regards,<br/>
+<br/>
+srk technologies.<br/>
+
+
+
